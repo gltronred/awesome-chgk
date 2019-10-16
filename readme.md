@@ -5,60 +5,41 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
-
-
-## Вопросы и редактирование
-
-- http://db.chgk.info - база вопросов
-- http://kand.info - "канделябр", оценка вопросов
-- https://bitbucket.org/pecheny/chgksuite - набор скриптов для упрощения редактирования и публикации пакетов
-
-## Результаты и статистика
-
-- http://www.chgklive.ru - обработка результатов, спорных и апелляций для строго синхронных турниров, сбор заявок на фестивали
-- http://chgk-res.ru/ - система подсчета результатов, оценки турниров по шкале Бахарева
-- http://chgkstat.org - сравнение результатов команд спортивного «Что? Где? Когда?» (и другая интересная статистика)
-- https://calendar.chgk.me/ - календари синхронов в городе в формате iCal (например, для гуглокалендаря)
-- http://www.krylenko.com/chgk/utilities/chgk-tables.html - Excel-таблицы на 2x18, 3x12, 3x14 и 6x15 вопросов, другие полезные таблицы
-- https://www.erubik.xyz/chgk/gaps.php - таблица с давними нерассмотренными спорными и апелляциями
-- https://apps.apple.com/us/app/%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3-%D1%87%D0%B3%D0%BA/id1473491668?l=ru&ls=1 - приложение для iOS
-- http://chgk.bodrovis.tech/ - кто с кем играл
-
-## Бланки
-
-- www.chgk-blanki.ru - обеспечение клубов игровой полиграфией **[возможно, не работает]**
-- https://sites.google.com/site/vturinsa/app/QPrintChGK - Программа для печати бланков ответов для спортивного Что? Где? Когда?
-- https://bitbucket.org/pecheny/blanks_gen - скрипты для генерации бланков
-
-## Таймеры
-
-- www.chgk-timer.ru - андроид-программа отбивки 60 секунд, с профильным функционалом [возможно, не работает]
-- http://www.chgktimer.ru/ - 1. онлайн таймер. 2. список синхронов с аудиоверсией (по данным сайта рейтинга) **[возможно, не работает]**
-- https://play.google.com/store/apps/details?id=de.mozul.chgk.app **[возможно, не работает]**
-- https://play.google.com/store/apps/details?id=net.rationalstargazer.chtogdekogdatimer - отбивка 60 секунд
-
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Contribute
+- [Вопросы и редактирование](#вопросы-и-редактирование)
+- [Результаты и статистика](#результаты-и-статистика)
+- [Бланки](#бланки)
+- [Таймеры](#таймеры)
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
+## Вопросы и редактирование
+
+- [База вопросов](http://db.chgk.info) - содержит очень многие отыгранные пакеты вопросов.
+- [Канделябр](http://kand.info) - сервис оценки вопросов и пакетов.
+- [Синхронизатор](http://sync.chgk.info) - сервис раздачи пакетов синхронов.
+- [Набор скриптов для упрощения редактирования и публикации пакетов](https://bitbucket.org/pecheny/chgksuite) - набор скриптов для упрощения редактирования и публикации пакетов.
+
+## Результаты и статистика
+
+- [chgklive.ru](http://www.chgklive.ru) - обработка результатов, спорных и апелляций для строго синхронных турниров, сбор заявок на фестивали.
+- [chgk-res.ru](http://chgk-res.ru/) - система подсчета результатов, оценки турниров по шкале Бахарева.
+- [chgkstat.org](http://chgkstat.org) - сравнение результатов команд (и другая интересная статистика).
+- [calendar.chgk.me](https://calendar.chgk.me/) - Календари синхронов в городе в формате iCal (для добавления в гугл-календарь).
+- [Excel-таблицы на 2x18, 3x12, 3x14 и 6x15 вопросов](http://www.krylenko.com/chgk/utilities/chgk-tables.html).
+- [Таблица с давними нерассмотренными спорными и апелляциями](https://www.erubik.xyz/chgk/gaps.php).
+- [Приложение для iOS](https://apps.apple.com/us/app/%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3-%D1%87%D0%B3%D0%BA/id1473491668?l=ru&ls=1).
+- [Кто с кем играл, на каких турнирах](http://chgk.bodrovis.tech/).
+
+## Бланки
+
+- [Обеспечение клубов игровой полиграфией](http://www.chgk-blanki.ru) - **возможно, не работает - на заявки нет ответов**.
+- [QPrintChGK](https://sites.google.com/site/vturinsa/app/QPrintChGK) - программа для печати бланков ответов.
+- [Скрипты для генерации бланков](https://bitbucket.org/pecheny/blanks_gen).
+- [Онлайн-генератор бланков с возможностью нанесения штрих-кодов](http://old.chgk-res.ru/blanks_generator).
+
+## Таймеры
+
+- [Таймер ЧГК](https://play.google.com/store/apps/details?id=net.rationalstargazer.chtogdekogdatimer) - отбивка 60 секунд, дуплеты, блицы, отсчёт 10 секунд на запись ответа.
 
 ## License
 
