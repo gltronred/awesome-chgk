@@ -21,6 +21,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## Результаты и статистика
 
+- [Сайт рейтинга](https://rating.chgk.info) - составы и результаты, проведение синхронов, раздача пакетов.
 - [chgklive.ru](http://www.chgklive.ru) - обработка результатов, спорных и апелляций для строго синхронных турниров, сбор заявок на фестивали.
 - [chgk-res.ru](http://chgk-res.ru/) - система подсчета результатов, оценки турниров по шкале Бахарева.
 - [chgkstat.org](http://chgkstat.org) - сравнение результатов команд (и другая интересная статистика).
