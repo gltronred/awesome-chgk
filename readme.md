@@ -14,7 +14,7 @@
 - [Бланки](#бланки)
 - [Таймеры](#таймеры)
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Будем рады вашим дополнениям! Пожалуйста, прочитайте, [как пополнить список](contributing.md).
 
 ## Вопросы и редактирование
 
