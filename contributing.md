@@ -11,8 +11,8 @@
 Вам нужен [аккаунт на Github](https://github.com/join)!
 
 1. Зайдите на страницу со списком: https://github.com/gltronred/awesome-chgk
-2. Нажмите на файл `readme.md`: ![Шаг 2 - Нажать Readme.md](images/contribute/contribute1.png)
-3. Теперь нажмите на иконку изменения: ![Шаг 3 - Нажать на Редактировать](images/contribute/contribute2.png)
+2. Нажмите на файл `readme.md`: ![Шаг 2 - Нажать Readme.md](images/contributing/contribute1.png)
+3. Теперь нажмите на иконку изменения: ![Шаг 3 - Нажать на Редактировать](images/contributing/contribute2.png)
 4. Вы можете редактировать текст, используя редактор, встроенный в браузер. Можно использовать [Markdown](https://help.github.com/articles/github-flavored-markdown/). Пожалуйста, удостоверьтесь, что ваши изменения подходят по [формату](#формат-списка). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
 5. Напишите, почему вы предлагаете эти изменения и затем нажмите на "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
 6. Отправьте [пулл-реквест](https://help.github.com/articles/using-pull-requests/)!
