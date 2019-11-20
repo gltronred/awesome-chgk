@@ -37,6 +37,7 @@
 - [calendar.chgk.me](https://calendar.chgk.me/) - Календари синхронов в городе в формате iCal (для добавления в гугл-календарь).
 - [Excel-таблицы на 2x18, 3x12, 3x14 и 6x15 вопросов](http://www.krylenko.com/chgk/utilities/chgk-tables.html).
 - [Таблица с давними нерассмотренными спорными и апелляциями](https://www.erubik.xyz/chgk/gaps.php).
+- [Таблица для индивидуального ЧГК (в случайных составах)](http://dinabank.chgk.info/cardhouse_v3.rar).
 
 ### Работа с сайтом рейтинга
 - [Сайт рейтинга](https://rating.chgk.info) - составы и результаты, проведение синхронов, раздача пакетов.
