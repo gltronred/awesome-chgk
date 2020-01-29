@@ -46,6 +46,7 @@
 - [Приложение для iOS](https://apps.apple.com/us/app/%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3-%D1%87%D0%B3%D0%BA/id1473491668?l=ru&ls=1).
 - [Инструкция по оформлению отчётов](https://docs.google.com/document/d/14LoFPkbq4JeksrYrpa87-bkDVDUUS3hsl0MvQ2mnGgY/edit).
 - [Как организаторам синхронов проверять заявки: неофициальная инструкция](https://ru-chgk.livejournal.com/2877606.html).
+- [Куда писать о проблемах: типовые сценарии](rating-chgk-info-problems-asking-for-help.md)
 
 ## Бланки
 
