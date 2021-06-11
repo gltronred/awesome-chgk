@@ -34,6 +34,7 @@
 ### Статистика игр
 - [chgkstat.org](http://chgkstat.org) - сравнение результатов команд (и другая интересная статистика).
 - [Кто с кем играл, на каких турнирах](http://chgk.bodrovis.tech/).
+- [Визуализация составов и результатов СтудЧР](https://astrofyz.github.io/chart_short_highlights.html).
 
 ### Прочие инструменты
 - [calendar.chgk.me](https://calendar.chgk.me/) - Календари синхронов в городе в формате iCal (для добавления в гугл-календарь).
