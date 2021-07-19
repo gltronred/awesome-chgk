@@ -52,6 +52,7 @@
 - [Как организаторам синхронов проверять заявки: неофициальная инструкция](https://ru-chgk.livejournal.com/2877606.html).
 - [Куда писать о проблемах: типовые сценарии](rating-chgk-info-problems-asking-for-help.md)
 - [chgk_rating](https://pub.dev/packages/chgk_rating) - SDK для работы с официальным API рейтинга ЧГК для языка программирования Dart  
+- [rating-chgk-info](https://hackage.haskell.org/package/rating-chgk-info) - клиент для REST API сайт рейтинга для языка программирования Haskell
 
 ## Бланки
 
