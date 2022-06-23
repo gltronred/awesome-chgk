@@ -28,7 +28,6 @@
 ## Результаты и статистика
 
 ### Обработка результатов
-- [chgklive.ru](http://www.chgklive.ru) - обработка результатов, спорных и апелляций для строго синхронных турниров, сбор заявок на фестивали.
 - [chgk-res.ru](http://chgk-res.ru/) - система подсчета результатов, оценки турниров по шкале Бахарева.
 
 ### Статистика игр
@@ -59,13 +58,12 @@
 ## Бланки
 
 - [Обеспечение клубов игровой полиграфией](http://www.chgk-blanki.ru) - **возможно, не работает - на заявки нет ответов**.
-- [QPrintChGK](https://sites.google.com/site/vturinsa/app/QPrintChGK) - программа для печати бланков ответов.
-- [Скрипты для генерации бланков](https://bitbucket.org/pecheny/blanks_gen).
+- [Скрипты для генерации бланков](https://gitlab.com/peczony/blanks_gen).
 - [Онлайн-генератор бланков с возможностью нанесения штрих-кодов](http://old.chgk-res.ru/blanks_generator).
 
 ## Таймеры
 
-- [Таймер ЧГК](https://play.google.com/store/apps/details?id=net.rationalstargazer.chtogdekogdatimer) - отбивка 60 секунд, дуплеты, блицы, отсчёт 10 секунд на запись ответа.
+- [Таймер ЧГК](https://play.google.com/store/apps/details?id=net.rationalstargazer.chtogdekogdatimer) - отбивка 60 секунд, дуплеты, блицы, отсчёт 10 секунд на запись ответа. 
 
 ## License
 
