@@ -10,7 +10,7 @@
   - [Обработка результатов](#обработка-результатов)
   - [Статистика игр](#статистика-игр)
   - [Прочие инструменты](#прочие-инструменты)
-  - [Работа с сайтом рейтинга](#работа-с-сайтом-рейтинга)
+  - [Работа с турнирным сайтом](#работа-с-турнирным-сайтом)
 - [Бланки](#бланки)
 - [Таймеры](#таймеры)
 
@@ -43,17 +43,18 @@
 - [Таблица для индивидуального ЧГК (в случайных составах)](http://dinabank.chgk.info/cardhouse_v3.rar).
 - [Подсчет очков Своей Игры](https://ph1l74.github.io/si/).
 - [Подсчет очков Своей Игры (с раундами)](https://ph1l74.github.io/si-old/).
-- [Телеграм-бот для сайта рейтинга](https://t.me/s/rating_test_bot) - Информация об отыгрышах в городах; синхронах, которые могут быть отыграны в конкретную дату
+- [Телеграм-бот для турнирного сайта](https://t.me/s/rating_test_bot) - Информация об отыгрышах в городах; синхронах, которые могут быть отыграны в конкретную дату
 
-### Работа с сайтом рейтинга
-- [Сайт рейтинга](https://rating.chgk.info) - составы и результаты, проведение синхронов, раздача пакетов.
+### Работа с турнирным сайтом
+- [Турнирный сайт](https://rating.chgk.info) - составы и результаты, проведение синхронов, раздача пакетов.
 - [Приложение для iOS](https://apps.apple.com/us/app/%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3-%D1%87%D0%B3%D0%BA/id1473491668?l=ru&ls=1).
 - [Инструкция по оформлению отчётов](https://docs.google.com/document/d/14LoFPkbq4JeksrYrpa87-bkDVDUUS3hsl0MvQ2mnGgY/edit).
 - [Как организаторам синхронов проверять заявки: неофициальная инструкция](https://ru-chgk.livejournal.com/2877606.html).
 - [Куда писать о проблемах: типовые сценарии](rating-chgk-info-problems-asking-for-help.md).
-- [chgk_rating](https://pub.dev/packages/chgk_rating) - SDK для работы с официальным API рейтинга ЧГК для языка программирования Dart.
-- [rating-chgk-info](https://hackage.haskell.org/package/rating-chgk-info) - клиент для REST API сайта рейтинга для языка программирования Haskell.
-- [rating-chgk-v2](https://github.com/bodrovis/rating-chgk-v2) - Ruby-клиент для API v2 сайта рейтинга.
+- [chgk_rating](https://pub.dev/packages/chgk_rating) - SDK для работы с официальным API 
+а ЧГК для языка программирования Dart.
+- [rating-chgk-info](https://hackage.haskell.org/package/rating-chgk-info) - клиент для REST API турнирного сайта для языка программирования Haskell.
+- [rating-chgk-v2](https://github.com/bodrovis/rating-chgk-v2) - Ruby-клиент для API v2 турнирного сайта.
 
 ## Бланки
 
