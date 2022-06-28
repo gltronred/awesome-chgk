@@ -24,7 +24,8 @@
 - **chgksuite** ([код](https://gitlab.com/peczony/chgksuite), [документация](https://peczony.gitbook.io/chgksuite/), [чат поддержки](https://t.me/chgksuite)) - набор скриптов для упрощения редактирования и публикации пакетов.
 - [Агрегатор интеллектуального досуга](questions.md) - сохранено из поста в
   Facebook со списком различных ресурсов.
-- [Библиотека МАИИ](library-maii.md) - копия [страницы](https://www.chgk.info/p/library) на сайте МАИИ.
+- [Вопросникам и редакторам](for-editors.md).
+- [Игрокам и тренерам](for-training.md).
 
 ## Результаты и статистика
 
@@ -44,6 +45,7 @@
 - [Подсчет очков Своей Игры](https://ph1l74.github.io/si/).
 - [Подсчет очков Своей Игры (с раундами)](https://ph1l74.github.io/si-old/).
 - [Телеграм-бот для турнирного сайта](https://t.me/s/rating_test_bot) - Информация об отыгрышах в городах; синхронах, которые могут быть отыграны в конкретную дату
+- [Программа для подсчёта очков спортивной «Своей игры»](https://sourceforge.net/projects/sihelper/). Автор — Майк Иванов, последнее обновление было сделано в 2015 году.
 
 ### Работа с турнирным сайтом
 - [Турнирный сайт](https://rating.chgk.info) - составы и результаты, проведение синхронов, раздача пакетов.
@@ -64,7 +66,8 @@
 
 ## Таймеры
 
-- [Таймер ЧГК](https://play.google.com/store/apps/details?id=net.rationalstargazer.chtogdekogdatimer) - отбивка 60 секунд, дуплеты, блицы, отсчёт 10 секунд на запись ответа. 
+- [Таймер для ЧГК](https://play.google.com/store/apps/details?id=net.rationalstargazer.chtogdekogdatimer) - отбивка 60 секунд, дуплеты, блицы, отсчёт 10 секунд на запись ответа. Автор — Александр Овчаренко.
+- [Таймер для ЧГК](https://play.google.com/store/apps/details?id=biz.artega.timer.chgk) (скачивать в Google Play). Автор — Сергей Завротский.
 
 ## License
 
