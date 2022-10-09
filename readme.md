@@ -21,7 +21,7 @@
 - [База вопросов](http://db.chgk.info) - содержит очень многие отыгранные пакеты вопросов.
 - [Канделябр](http://kand.info) - сервис оценки вопросов и пакетов.
 - [Синхронизатор](http://sync.chgk.info) - сервис раздачи пакетов синхронов.
-- **chgksuite** ([код](https://gitlab.com/peczony/chgksuite), [документация](https://peczony.gitbook.io/chgksuite/), [чат поддержки](https://t.me/chgksuite)) - набор скриптов для упрощения редактирования и публикации пакетов.
+- **chgksuite** ([код](https://gitlab.com/peczony/chgksuite), [документация](https://peczony.gitlab.io/chgksuite/), [чат поддержки](https://t.me/chgksuite)) - набор скриптов для упрощения редактирования и публикации пакетов.
 - [Агрегатор интеллектуального досуга](questions.md) - сохранено из поста в
   Facebook со списком различных ресурсов.
 - [Вопросникам и редакторам](for-editors.md).
