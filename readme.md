@@ -71,6 +71,7 @@
 
 - [Таймер для ЧГК](https://play.google.com/store/apps/details?id=net.rationalstargazer.chtogdekogdatimer) - отбивка 60 секунд, дуплеты, блицы, отсчёт 10 секунд на запись ответа. Автор — Александр Овчаренко.
 - [Таймер для ЧГК](https://play.google.com/store/apps/details?id=biz.artega.timer.chgk) (скачивать в Google Play). Автор — Сергей Завротский.
+- [ЧГК-таймер](https://chgk-timer.ru/) онлайн. Автор — [Сергей Литвинов](https://litvinovs.net/).
 
 ## License
 
