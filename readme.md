@@ -47,6 +47,7 @@
 - [Подсчет очков Своей Игры](https://ph1l74.github.io/si/).
 - [Подсчет очков Своей Игры (с раундами)](https://ph1l74.github.io/si-old/).
 - [Программа для подсчёта очков спортивной «Своей игры»](https://sourceforge.net/projects/sihelper/). Автор — Майк Иванов, последнее обновление было сделано в 2015 году.
+- [Еще один онлайн-сервис для подсчета очков Своей игры](https://megakoko.github.io/).
 - [Подсчёт очков спортивной «Своей игры» для Android](https://play.google.com/store/apps/details?id=com.atanana.sicounter).
 - [Планировщик ЧГК](https://quiza.stalnuhhin.ee/chgkplan) - Инструмент для просмотра турниров, которые доступны для отыгрыша в конкретную дату.
 
