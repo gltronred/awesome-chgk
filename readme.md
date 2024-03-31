@@ -35,7 +35,7 @@
 
 ### Статистика игр
 - [chgkstat.org](http://chgkstat.org) - сравнение результатов команд (и другая интересная статистика).
-- [Кто с кем играл, на каких турнирах](http://chgk.bodrovis.tech/).
+- [Кто с кем играл, на каких турнирах](https://buff.pecheny.me/)
 - [Визуализация составов и результатов СтудЧР](https://astrofyz.github.io/chart_short_highlights.html).
 - [Графики взятий команд из Германии на некоторых турнирах](https://dmitry-weirdo.github.io/chgk-graphs/); [исходный код](https://github.com/dmitry-weirdo/chgk-graphs)
 
