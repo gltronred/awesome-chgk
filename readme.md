@@ -35,13 +35,12 @@
 
 ### Статистика игр
 - [chgkstat.org](http://chgkstat.org) - сравнение результатов команд (и другая интересная статистика).
-- [Кто с кем играл, на каких турнирах](http://chgk.bodrovis.tech/).
+- [Кто с кем играл, на каких турнирах](https://buff.pecheny.me/)
 - [Визуализация составов и результатов СтудЧР](https://astrofyz.github.io/chart_short_highlights.html).
 - [Графики взятий команд из Германии на некоторых турнирах](https://dmitry-weirdo.github.io/chgk-graphs/); [исходный код](https://github.com/dmitry-weirdo/chgk-graphs)
 
 ### Прочие инструменты
 - [calendar.chgk.me](https://calendar.chgk.me/) - Календари синхронов в городе в формате iCal (для добавления в гугл-календарь).
-- [Excel-таблицы на 2x18, 3x12, 3x14 и 6x15 вопросов](http://www.krylenko.com/chgk/utilities/chgk-tables.html).
 - [Таблица с давними нерассмотренными спорными и апелляциями](https://www.erubik.xyz/chgk/gaps.php).
 - [Таблица для индивидуального ЧГК (в случайных составах)](http://dinabank.chgk.info/cardhouse_v3.rar).
 - [Подсчет очков Своей Игры](https://ph1l74.github.io/si/).
@@ -50,6 +49,9 @@
 - [Еще один онлайн-сервис для подсчета очков Своей игры](https://megakoko.github.io/).
 - [Подсчёт очков спортивной «Своей игры» для Android](https://play.google.com/store/apps/details?id=com.atanana.sicounter).
 - [Планировщик ЧГК](https://quiza.stalnuhhin.ee/chgkplan) - Инструмент для просмотра турниров, которые доступны для отыгрыша в конкретную дату.
+- [Таблицы для проведения ЧГК от Александра Петракова](https://drive.google.com/drive/folders/1SrjwW0G4iB7WbubFuwzMzcOVZ19jLAoz) - Таблицы для отыгрышей синхронов от Александра Петракова в форматах гугл-таблиц и xlsx.
+- [Таблицы для проведения ЧГК](https://drive.google.com/drive/u/0/folders/1A9onOQNn5w9Nvqih9ytiP93g9GZHvnbj) - Таблицы для проведения ЧГК (2×18, 3×12, 3×15, 4×12, 6×12, 6×15). Реализованы с помощью [скрипта](https://gitlab.com/peczony/google_sheet_writer) Александра Печеного с небольшими изменениями.
+- [Скрипты для генерации гугл-таблиц](https://gitlab.com/peczony/google_sheet_writer) - Набор python-скриптов от Александра Печеного для генерации гугл-таблиц с [инструкцией](https://youtu.be/3J60QTNIm04).
 
 ### Работа с турнирным сайтом
 - [Турнирный сайт](https://rating.chgk.info) - составы и результаты, проведение синхронов, раздача пакетов.
@@ -65,9 +67,10 @@
 ## Бланки
 
 - [Обеспечение клубов игровой полиграфией](http://www.chgk-blanki.ru) - **возможно, не работает - на заявки нет ответов**.
-- [QPrintChGK](https://sites.google.com/site/vturinsa/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/qprintchgk-%D0%B1%D0%BB%D0%B0%D0%BD%D0%BA%D0%B8-%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE-%D1%87%D1%82%D0%BE%D0%B3%D0%B4%D0%B5%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0) - программа для печати бланков ответов. Последнее обновление - 2013 г. Автор - Сергей Втюрин.
+- [QPrintChGK](https://sites.google.com/site/vturinsa/программы/qprintchgk-бланки-ответов-для-спортивного-чтогдекогда) - программа для печати бланков ответов. Последнее обновление - 2013 г. Автор - Сергей Втюрин.
 - [Скрипты для генерации бланков](https://gitlab.com/peczony/blanks_gen).
 - [Онлайн-генератор бланков с возможностью нанесения штрих-кодов](http://old.chgk-res.ru/blanks_generator).
+- [Онлайн-генератор бланков с возможностью добавления изображений](https://blank.shchr.ru/). Автор — Евгений Кан.
 
 ## Таймеры
 
