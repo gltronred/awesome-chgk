@@ -36,7 +36,7 @@
 ### Статистика игр
 - [chgkstat.org](http://chgkstat.org) - сравнение результатов команд (и другая интересная статистика).
 - [Кто с кем играл, на каких турнирах](https://buff.pecheny.me/)
-- [Визуализация составов и результатов СтудЧР](https://astrofyz.github.io/chart_short_highlights.html).
+- [Визуализация составов и результатов СтудЧР](https://astrofyz.github.io/studchr_flow/).
 - [Графики взятий команд из Германии на некоторых турнирах](https://dmitry-weirdo.github.io/chgk-graphs/); [исходный код](https://github.com/dmitry-weirdo/chgk-graphs)
 
 ### Прочие инструменты
@@ -52,6 +52,9 @@
 - [Таблицы для проведения ЧГК от Александра Петракова](https://drive.google.com/drive/folders/1SrjwW0G4iB7WbubFuwzMzcOVZ19jLAoz) - Таблицы для отыгрышей синхронов от Александра Петракова в форматах гугл-таблиц и xlsx.
 - [Таблицы для проведения ЧГК](https://drive.google.com/drive/u/0/folders/1A9onOQNn5w9Nvqih9ytiP93g9GZHvnbj) - Таблицы для проведения ЧГК (2×18, 3×12, 3×15, 4×12, 6×12, 6×15). Реализованы с помощью [скрипта](https://gitlab.com/peczony/google_sheet_writer) Александра Печеного с небольшими изменениями.
 - [Скрипты для генерации гугл-таблиц](https://gitlab.com/peczony/google_sheet_writer) - Набор python-скриптов от Александра Печеного для генерации гугл-таблиц с [инструкцией](https://youtu.be/3J60QTNIm04).
+- **Таблицы для проведения ЧГК от Арсения Глазовского** ([инструкция](https://docs.google.com/document/d/1nsERzE8sDHOFvJUlnHmoXa9R-0myhEkm43hNtuwXz1Q)) — таблицы от Арсения Глазовского для проведения синхронов и турниров. Доступны версии на [36 вопросов](https://docs.google.com/spreadsheets/d/1Lidm9vsvxszPRsPWhUwGcJBv3oEyaPSWNp4NSqP_m18), [36 вопросов с рейтингом вопросов](https://docs.google.com/spreadsheets/d/1h7Z-rww_HrgdrsOC1d7TeAhynyZmz9ybKxPLiROWOIQ), [48 вопросов](https://docs.google.com/spreadsheets/d/1_cqGtEmVZaQMcXTU3kolJxd6TFQoYWKzI1-_jGLEi6o) и [90 вопросов](https://docs.google.com/spreadsheets/d/1l9UKQzFs4kKpXRusLB-lr-_kLZzUlsvYecNKcj3ebNs).
+- [Таблица для проведения индивидуального ЧГК (в случайных составах)](https://docs.google.com/spreadsheets/d/1P1l4ihxDj1krud8AOCvWbrR7wp-Nm8KZGfK0tZ6Vu3Y) — гугл-таблица от Сергея Шихова с доработками Арсения Глазовского для проведения индивидуального ЧГК в случайных составах (он же «Кубок дружбы», «Карточный домик»). [Инструкция](https://docs.google.com/document/d/1T3qqNqGWvydIFHJ4URGJGOYSgTDz5RLMOg2pxJPl9Ps/edit?tab=t.0#heading=h.21oa7r7gy94).
+- **КИТ** ([описание](https://t.me/Anonsy_Svoyaka/167), [инструкция](https://docs.google.com/document/d/1gYYg4yQh9v9JN0duaVVJxnpe-fgkwjAfmhReIQnS2FM/edit?usp=sharing), [чат](https://t.me/+z75RRL5K5JVjOWU6)) — конструктор игровых таблиц для турниров по Своей игре от Дениса Галиакберова.
 
 ### Работа с турнирным сайтом
 - [Турнирный сайт](https://rating.chgk.info) - составы и результаты, проведение синхронов, раздача пакетов.
