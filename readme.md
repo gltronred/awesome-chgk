@@ -25,8 +25,8 @@
 - **chgksuite** ([код](https://gitlab.com/peczony/chgksuite), [документация](https://peczony.gitlab.io/chgksuite/), [чат поддержки](https://t.me/chgksuite)) - набор скриптов для упрощения редактирования и публикации пакетов.
 - [Агрегатор интеллектуального досуга](questions.md) - сохранено из поста в
   Facebook со списком различных ресурсов.
-- [Вопросникам и редакторам](for-editors.md).
-- [Игрокам и тренерам](for-training.md).
+- [Вопросникам и редакторам](https://chgknews.substack.com/p/library?open=false#§вопросникам-и-редакторам).
+- [Игрокам и тренерам](https://chgknews.substack.com/i/151296719/игрокам-и-тренерам).
 
 ## Результаты и статистика
 
@@ -41,7 +41,6 @@
 
 ### Прочие инструменты
 - [calendar.chgk.me](https://calendar.chgk.me/) - Календари синхронов в городе в формате iCal (для добавления в гугл-календарь).
-- [Таблица с давними нерассмотренными спорными и апелляциями](https://www.erubik.xyz/chgk/gaps.php).
 - [Таблица для индивидуального ЧГК (в случайных составах)](http://dinabank.chgk.info/cardhouse_v3.rar).
 - [Подсчет очков Своей Игры](https://ph1l74.github.io/si/).
 - [Подсчет очков Своей Игры (с раундами)](https://ph1l74.github.io/si-old/).
